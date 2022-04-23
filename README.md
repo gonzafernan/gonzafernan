@@ -11,15 +11,20 @@ and the software development in general. I recently took some courses on RTL and
 - <i class="devicon-twitter-original colored"></i> On twitter at [@gonzafernan](https://twitter.com/gonzagfernan)
 - <i class="devicon-linkedin-plain colored"></i> On LinkedIn at [/in/gonzafernan](https://www.linkedin.com/in/gonzafernan/)
 
-### Language and tools
+### Languages and tools
 
-<img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
+<img align="left" alt="C" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
 
-<img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+<img align="left" alt="Embedded C" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/embeddedc/embeddedc-original.svg" />
 
-<img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" />
+<img align="left" alt="Python" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 
-<img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+<img align="left" alt="MATLAB and Simulink" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" />
+
+<img align="left" alt="Linux" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+
+
+<img align="left" alt="Git" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 
 
 ### Projects I've worked on
@@ -34,12 +39,5 @@ and the software development in general. I recently took some courses on RTL and
 
 ### Constantly learning 📚
 
--
-
-<!---
-gonzafernan/gonzafernan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
-[twitter]: https://twitter.com/gonzagfernan
-[linkedin]: https://www.linkedin.com/in/gonzafernan/
+- [Advance Digital Design 2021](https://github.com/gonzafernan/advance-digital-design) course labs and practice resolution.
+- [EDU-CIAA and FreeRTOS](https://github.com/gonzafernan/educiaa-freertos): I made myself an excercise to learn the argentinian EDU-CIAA platform and the real-time OS FreeRTOS. <i class="devicon-embeddedc-plain colored"></i>
