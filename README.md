@@ -2,8 +2,7 @@
 
 ### Hi there, I'm Gonzalo Fernández 👋
 
-I'm currently finishing my degree in Mechatronics Engineering. My main interests are firmware development for microcontrollers, robotics, control, 
-and the software development in general. I recently took some courses on RTL and digital design for FPGAs, and I hope to learn more about this.
+I'm currently finishing my degree in Mechatronics Engineering. My main interests are firmware development for microcontrollers, artificial intelligence, robotics, control, and the software development in general. I recently took some courses on RTL and digital design for FPGAs, and I hope to learn more about this.
 
 ### Connect with me
 
