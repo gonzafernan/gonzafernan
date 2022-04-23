@@ -30,6 +30,7 @@ and the software development in general. I recently took some courses on RTL and
 
 - [Self-balancing LQG](https://github.com/gonzafernan/self-balancing-lqg): Self-balancing robot analysis and LQG optimal controller design with MATLAB Simulink and Simscape Multibody. <i class="devicon-matlab-plain colored"></i>
 - [Robot arm simulator](https://github.com/gonzafernan/RobotArm-Simulator) using QT framework <i class="devicon-qt-original colored"></i> <i class="devicon-cplusplus-plain colored"></i>
+- [Unitlab Robotics AR](https://github.com/gonzafernan/Unitlab-RoboticsAR): Augmented Reality application developed in Unity, for the simulation of manipulators in Peter Corke's toolbox for MATLAB. <i class="devicon-csharp-plain colored"></i><i class="devicon-unity-original colored"></i><i class="devicon-matlab-plain colored"></i>
 
 ### One week projects tha you may find interesting! ⚡
 
