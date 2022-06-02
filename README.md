@@ -9,7 +9,7 @@ I'm currently finishing my degree in Mechatronics Engineering. My main interests
 - <i class="devicon-twitter-original colored"></i> On twitter at [@gonzagfernan](https://twitter.com/gonzagfernan)
 - <i class="devicon-linkedin-plain colored"></i> On LinkedIn at [/in/gonzafernan](https://www.linkedin.com/in/gonzafernan/)
 
-### Languages and tools
+### Languages and tools 🛠️
 
 <img align="left" alt="C" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
 
@@ -23,7 +23,7 @@ I'm currently finishing my degree in Mechatronics Engineering. My main interests
 
 <img alt="Git" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 
-### Projects I've worked on
+### Projects I've worked on 📝
 
 - [Self-balancing LQG](https://github.com/gonzafernan/self-balancing-lqg): Self-balancing robot analysis and LQG optimal controller design with MATLAB Simulink and Simscape Multibody. <i class="devicon-matlab-plain colored"></i>
 - [Robot arm simulator](https://github.com/gonzafernan/RobotArm-Simulator) using QT framework <i class="devicon-qt-original colored"></i> <i class="devicon-cplusplus-plain colored"></i>
@@ -33,6 +33,7 @@ I'm currently finishing my degree in Mechatronics Engineering. My main interests
 
 - [Flutter Parkinson](https://github.com/gonzafernan/flutter_parkinson): Simple Flutter Android App to graphic test Parkinson's desease. <i class="devicon-dart-plain colored"></i><i class="devicon-flutter-plain colored"></i><i class="devicon-tensorflow-original colored"></i>
 - [Currency WPP](https://github.com/gonzafernan/currency-wpp): Simple Whatsapp bot for currency conversion using Twilio service and ExchangeRate-API. <i class="devicon-python-plain colored"></i>
+- [Rule-based system](https://github.com/gonzafernan/rule-based-sys): A expert system based on python Experta to recommend professional career. 
 
 ### Constantly learning 📚
 
