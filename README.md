@@ -37,5 +37,5 @@ I'm currently finishing my degree in Mechatronics Engineering. My main interests
 
 ### Constantly learning 📚
 
-- [Advance Digital Design 2021](https://github.com/gonzafernan/advance-digital-design) course labs and practice resolution.
+- [Advanced Digital Design 2022](https://github.com/gonzafernan/advanced-digital-design) course labs and practice resolution.
 - [EDU-CIAA and FreeRTOS](https://github.com/gonzafernan/educiaa-freertos): I made myself an excercise to learn the argentinian EDU-CIAA platform and the real-time OS FreeRTOS. <i class="devicon-embeddedc-plain colored"></i>
