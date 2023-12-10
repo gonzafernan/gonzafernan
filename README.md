@@ -37,5 +37,6 @@ I'm a QA Software Engineer at Marvell Technology and have a Mechatronics Enginee
 
 ### Constantly learning 📚
 
+- My [Advent of Code solutions](https://github.com/gonzafernan/adventofcode)! 🎅🎄
 - [Advanced Digital Design 2022](https://github.com/gonzafernan/advanced-digital-design) course labs and practice resolution.
 - [EDU-CIAA and FreeRTOS](https://github.com/gonzafernan/educiaa-freertos): I made myself an excercise to learn the argentinian EDU-CIAA platform and the real-time OS FreeRTOS. <i class="devicon-embeddedc-plain colored"></i>
