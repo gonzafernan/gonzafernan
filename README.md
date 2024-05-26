@@ -2,7 +2,7 @@
 
 ### Hi there, I'm Gonzalo Fernández 👋
 
-I'm a QA Software Engineer at Marvell Technology and have a Mechatronics Engineering degree. My main interests are firmware development for microcontrollers, artificial intelligence, robotics, and control. I love to develop tools that make other life easier. Recently, I took some courses on RTL and digital design for FPGAs, and I hope to learn more about this.
+I'm a Mechatronics Engineer at [Nimble One](https://nimbleone.io/). My main interests are firmware development for microcontrollers, artificial intelligence, robotics, and control. I love to develop tools that make other life easier. Recently, I took some courses on RTL and digital design for FPGAs, and I hope to learn more about this.
 
 ### Connect with me
 
