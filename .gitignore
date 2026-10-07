@@ -1,0 +1,2 @@
+# CVs are built by CI (see .github/workflows/cv.yml)
+*.pdf
